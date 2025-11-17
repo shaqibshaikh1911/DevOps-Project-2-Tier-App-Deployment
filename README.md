@@ -1,6 +1,6 @@
 # DevOps Project Report: Automated CI/CD Pipeline for a 2-Tier Flask Application on AWS
 
-**Author:** Shaqib  Shaikh
+**Author:** Shaqib Shaikh
 **Date:** 17-11-2025
 
 ---
@@ -28,7 +28,7 @@ This document outlines the step-by-step process for deploying a 2-tier web appli
 ---
 
 ### **2. Architecture Diagram**
-<img src="diagrams/Architecture-2.png">
+<img src="diagrams/Architect.png">
 
 ### **3. Step 1: AWS EC2 Instance Preparation**
 
@@ -288,7 +288,3 @@ The CI/CD pipeline is now fully operational. Any `git push` to the `main` branch
 
 ### **9. Infrastructure Diagram**
 <img src="diagrams/Infra.png">
-
-
-### **10. Work flow Diagram**
-<img src="diagrams/project_workflow.png">
