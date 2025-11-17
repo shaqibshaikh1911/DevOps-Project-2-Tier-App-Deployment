@@ -1,6 +1,6 @@
 # DevOps Project Report: Automated CI/CD Pipeline for a 2-Tier Flask Application on AWS
 
-**Author:** Shaqib Shaikh
+**Author:** Shaqib Shaikh 
 **Date:** 17-11-2025
 
 ---
