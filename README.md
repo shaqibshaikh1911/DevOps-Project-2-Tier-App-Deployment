@@ -28,7 +28,7 @@ This document outlines the step-by-step process for deploying a 2-tier web appli
 ---
 
 ### **2. Architecture Diagram**
-<img src="diagrams/2-Tier Architecture-2">
+<img src="diagrams/Architecture-2.png">
 
 ### **3. Step 1: AWS EC2 Instance Preparation**
 
