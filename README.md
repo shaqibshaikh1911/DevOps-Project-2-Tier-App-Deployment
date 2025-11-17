@@ -124,7 +124,6 @@ This document outlines the step-by-step process for deploying a 2-tier web appli
 ### **6. Step 4: GitHub Repository Configuration**
 
 ### **Ensure your GitHub repository contains the following three files.**
-    ```bash
     git init
     git remote add origin https://github.com/shaqibshaikh1911/DevOps-Project-2-Tier-App-Deployment.git
     git add .
@@ -132,8 +131,7 @@ This document outlines the step-by-step process for deploying a 2-tier web appli
     git branch -M main
     git fetch origin
     git push -u origin main
-    ```
-    
+
 <img src="diagrams/06.png">
 <img src="diagrams/07.png">
 #### **Dockerfile**
